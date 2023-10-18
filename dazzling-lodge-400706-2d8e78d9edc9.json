@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "dazzling-lodge-400706",
+  "private_key_id": "2d8e78d9edc981b3d290024d3853df35794fb627",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC4weA7CKP+EkNx\nROf9RUZYEwAEIHT/D4oXehOpdnW7rCKIgOgBvj369CPsuxU+03sC/FqvJObMXf+Q\nmpLmGDCthw9JnFY4ZomYT+d1agkXoPPurnVvJ0+2P524C0W6npuMDfsxnMDjspSl\neXgGW3LM+Q+LC23a7qz4EdRRcSj2B7pZTuOF5fb96AW77wFFwhe67VeU+/zKCKS8\nPjTTMkP6tgVwtABfT7Tys+cOTuNVRHVQ5RSe3DvAY/B50yqsPXiUWs1DEsAGYAHa\ntBUvm14w0RWcQiaeF1illChUWy56djz5FI1dcUbTeR8SNLuAipBu6Go5MbaTzrkE\nlzqT/PrvAgMBAAECggEAMJzyvxW68LMlg7w5vm5n3+y/6FYR8rrH/v1kBwbgW40j\nWP9yDGNeM5Xhjfx7zpgemd6EjekLwWJKSGYjmN9sj3wmDZxRI233blg38rD/y3PS\nO080Hxcc5js+6Jousrfg/a0AF0HDjyYB7rhTWHjfcAdoi5FqSlzarjsivnsj5/gV\nhzUhRRjhxjlCh7SEqpThP9qypXdnuZ4wUqeD69Z3GIah5TEUKkID+l8BGwnCJUt+\n3gmxWlg7t32i74R/l+zeUebjC3eQ8cN+4roMzKr39PRIqoX5sfhvyOOuO798nSNh\nhU24hx5Bn5485y8hNEUOJHxdvle0FyOnZ7gfZsU2oQKBgQDw+g9cPtAtk6ySl7hR\nN5M2Wd4mqCPgr+aUTYjNB3GLW5cXHcpwEmStYPnOFI7gz+51fNbOlNrjRwGrC4jb\nIaFh9foytUmrunzS1inLZSZ2FdIzcgbyHQdjdgPwKJ5Mmmtv4lgPXY1H43E786Lv\nmWu5ztW+2cR4unEORw7+c6Vd/QKBgQDERpCUP94pZCFPYOrKb0+LJOe5RBtQSNbM\nEfRukz6CmRj06wHj+x2IAkXVXhCTMRtEZJXp0RfDAuUOTmj3LFyxgflxApzGAor9\nhMskOG/39jvntI3sHfrZymH5HVdzad7CRVz6KCuZx9Shxut1gm7Km2dgNoy84u4q\n1rex5jJ6WwKBgFhntLjnxmHiGl6RUKpjFBvNbmWKK9djUNk5dKWbRHmWuWBeqoTh\nCpRczmhfPGeXgOkTSo7xJzhYNXF1wth5hwY0QnzV61gYC3Eh5qVaz3hk2v/Kpmeu\nZKaFhj5V+HUr9ZxPUnUYohssgr82y6DRDSdWjS3+IEkWRSGyyfppnNJVAoGAPY0D\nefotaT2FVKdH+gO+JhyEroy1JBAzi/t1c9epGrt4IBYymZP+RtCvpaHCAOa9bk08\n1f5EPVuDCWF9eUXoK6Je3xm6oD3b6HTkX49zTYdicd8lQo6ERBg7cSvKaN8ihDnM\nVoaSZb9M5w7CeC9XHyJs4Lc6m2Fu3vBG2vsdiVECgYBD9djnWGd53qvamiTOPI5u\nYCk+n3ayOpGy4QqUFxsqRdby4LRTd1Ma1v5BhEE5dqzN6P5oK7jkbDduBKkqzyJd\nFEYkFhxDA3/UGEOeN/c+oY5A76j0/vuYN2INUAy18t/fO/rZ0V1QgFdD3fQEwkaT\nlDJ86O72bfoDp7APVa3PkQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "github-actions@dazzling-lodge-400706.iam.gserviceaccount.com",
+  "client_id": "113008834396240537089",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/github-actions%40dazzling-lodge-400706.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

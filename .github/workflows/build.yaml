@@ -21,10 +21,10 @@ jobs:
           service_account_key: ${{ secrets.GOOGLE_APPLICATION_CREDENTIALS }}
           export_default_credentials: true
 
-      - name: build and push the docker image
+      - name: Build and Push Docker Image
         env:
           GOOGLE_PROJECT: ${{ secrets.GOOGLE_PROJECT }}
         run: |
           gcloud auth configure-docker asia-southeast2-docker.pkg.dev
-          docker build -t asia-southeast2-docker.pkg.dev/$GOOGLE_PROJECT/latihan1/nginx:latest . 
+          docker build -t asia-southeast2-docker.pkg.dev/$GOOGLE_PROJECT/latihan1/nginx:latest .
           docker push asia-southeast2-docker.pkg.dev/$GOOGLE_PROJECT/latihan1/nginx:latest

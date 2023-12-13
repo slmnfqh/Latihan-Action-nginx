@@ -11,7 +11,7 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: code checkout
+      - name: code checkoutt
         uses: actions/checkout@v2
 
       - name: install the gcloud cli
@@ -28,7 +28,6 @@ jobs:
           gcloud auth configure-docker us-central1-docker.pkg.dev
           docker build -t us-central1-docker.pkg.dev/$GOOGLE_PROJECT/latihan1/nginx:latest .
           docker push us-central1-docker.pkg.dev/$GOOGLE_PROJECT/latihan1/nginx:latest
-
 
       - name: Debug
         run: ls -R
